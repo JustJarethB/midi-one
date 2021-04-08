@@ -8,6 +8,8 @@ On the other hand, this may end up an unfinished project like so often happens. 
 The aim of this project is to create a working MIDI controller, with fully digital components and visual/physical feedback. Starting small, this will be expanded when the feasibility is better known. Beginning with simple push buttons and potentiometers to the final items planned for use. It may even get an enclosure eventually
 
 ## End Goal:
+- [x] Hello World
+- - [x] Blink LED
 - [ ] Output a MIDI Signal
 - [ ] Push Buttons
 - - [ ] MIDI Output
