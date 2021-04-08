@@ -23,5 +23,7 @@ The aim of this project is to create a working MIDI controller, with fully digit
 - - [ ] MIDI Output
 - - [ ] Value Reflected By LED Ring
 - - [ ] Control Different Values
+- [ ] Shift Register Inputs
+- [ ] *Shift Register Outputs*
 - [ ] Set MIDI Channels
 - [ ] Set MIDI Param Per Item
