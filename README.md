@@ -4,16 +4,16 @@ On the other hand, this may end up an unfinished project like so often happens. 
 
 
 End Goal:
-[] Push Buttons
-- [] MIDI Output
-- [] RGB LED Response
-[] Motorized Slide Potentiometer
-- [] MIDI Output
-- [] Motor From MIDI Input Value
-- [] Control Different Values
-[] Rotary Encoder w/ LED
-- [] MIDI Output
-- [] Value Reflected By LED Ring
-- [] Control Different Values
-[] Set MIDI Channels
-[] Set MIDI Param Per Item
+- [ ] Push Buttons
+- - [ ] MIDI Output
+- - [ ] RGB LED Response
+- [ ] Motorized Slide Potentiometer
+- - [ ] MIDI Output
+- - [ ] Motor From MIDI Input Value
+- - [ ] Control Different Values
+- [ ] Rotary Encoder w/ LED
+- - [ ] MIDI Output
+- - [ ] Value Reflected By LED Ring
+- - [ ] Control Different Values
+- [ ] Set MIDI Channels
+- [ ] Set MIDI Param Per Item
