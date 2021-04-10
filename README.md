@@ -10,9 +10,12 @@ The aim of this project is to create a working MIDI controller, with fully digit
 ## End Goal:
 - [x] Hello World
 - - [x] Blink LED
-- [ ] Output a MIDI Signal
+- [x] Output a MIDI Signal
 - [ ] Push Buttons
-- - [ ] MIDI Output
+- - [x] MIDI Output
+- - - [ ] MIDI Toggle
+- - - [ ] MIDI Momentary
+- - - [ ] MIDI Pulse (Single-Side Send)
 - - [ ] RGB LED Response
 - [ ] Motorized Slide Potentiometer
 - - [ ] MIDI Output
