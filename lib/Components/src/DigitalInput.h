@@ -5,6 +5,13 @@ class DigitalInput : public Component {
 protected:
 bool state;
 public:
+DigitalInput(int pin);
 bool getState();
 };
+
+class Button : public DigitalInput {
+  public:
+  Button(int pin);
+};
+
 #endif
